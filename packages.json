@@ -1,0 +1,33 @@
+[
+
+    {
+        "package": "geoAr",
+        "url": "https://github.com/PoliticaArgentina/geoAr"
+    },
+    {
+        "package": "electorAr",
+        "url": "https://github.com/PoliticaArgentina/electorAr"
+    },
+    {
+        "package": "legislAr",
+        "url": "https://github.com/PoliticaArgentina/legislAr"
+    },
+    {
+        "package": "discursAr",
+        "url": "https://github.com/PoliticaArgentina/discursAr"
+    },
+    {
+        "package": "opinAr",
+        "url": "https://github.com/PoliticaArgentina/opinAr"
+    },
+    {
+        "package": "polArverse",
+        "url": "https://github.com/PoliticaArgentina/polArverse"
+    },
+    {
+        "package": "polArViz",
+        "url": "https://github.com/PoliticaArgentina/polArViz"
+    }
+
+ 
+]
