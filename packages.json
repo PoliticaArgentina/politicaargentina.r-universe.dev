@@ -1,5 +1,8 @@
 [
-
+    {
+        "package": "censAr",
+        "url": "https://github.com/PoliticaArgentina/censAr"
+    },    
     {
         "package": "geoAr",
         "url": "https://github.com/PoliticaArgentina/geoAr"
